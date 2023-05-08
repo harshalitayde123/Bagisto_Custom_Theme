@@ -115,7 +115,8 @@
             "Webkul\\Sitemap\\": "packages/Webkul/Sitemap/src",
             "ACME\\HelloWorld\\": "packages/ACME/HelloWorld/src",
             "ACME\\Demo\\": "packages/ACME/Demo/src",
-            "ACME\\Coloshop\\": "packages/ACME/Coloshop/src"
+            "ACME\\Coloshop\\": "packages/ACME/Coloshop/src",
+            "ACME\\dwebpixelEcommerce\\": "packages/ACME/dwebpixelEcommerce/src"
         }
     },
     "autoload-dev": {

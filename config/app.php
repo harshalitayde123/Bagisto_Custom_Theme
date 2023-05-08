@@ -225,7 +225,8 @@ return [
         Webkul\Sitemap\Providers\SitemapServiceProvider::class,
         ACME\HelloWorld\Providers\HelloWorldServiceProvider::class,
         ACME\Demo\Providers\DemoServiceProvider::class,
-        ACME\Coloshop\Providers\ColoshopServiceProvider::class
+        ACME\Coloshop\Providers\ColoshopServiceProvider::class,
+        ACME\dwebpixelEcommerce\Providers\dwebpixelEcommerceServiceProvider::class,
     ])->toArray(),
 
     /*
