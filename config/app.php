@@ -227,6 +227,11 @@ return [
         ACME\Demo\Providers\DemoServiceProvider::class,
         ACME\Coloshop\Providers\ColoshopServiceProvider::class,
         ACME\dwebpixelEcommerce\Providers\dwebpixelEcommerceServiceProvider::class,
+        ACME\Stripe\Providers\StripeServiceProvider::class,
+        
+
+
+      
     ])->toArray(),
 
     /*

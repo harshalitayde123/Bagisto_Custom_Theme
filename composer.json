@@ -43,7 +43,8 @@
         "prettus/l5-repository": "^2.6",
         "pusher/pusher-php-server": "^7.0",
         "spatie/laravel-ignition": "^2.0",
-        "spatie/laravel-sitemap": "^6.2"
+        "spatie/laravel-sitemap": "^6.2",
+        "stripe/stripe-php": "8.1"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.8",
@@ -116,7 +117,9 @@
             "ACME\\HelloWorld\\": "packages/ACME/HelloWorld/src",
             "ACME\\Demo\\": "packages/ACME/Demo/src",
             "ACME\\Coloshop\\": "packages/ACME/Coloshop/src",
-            "ACME\\dwebpixelEcommerce\\": "packages/ACME/dwebpixelEcommerce/src"
+            "ACME\\dwebpixelEcommerce\\": "packages/ACME/dwebpixelEcommerce/src",
+            "ACME\\Stripe\\": "packages/ACME/Stripe/src"
+            
         }
     },
     "autoload-dev": {
